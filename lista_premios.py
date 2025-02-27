@@ -1,0 +1,1 @@
+awards_dict = {'Netflix': [{'year': 1995, 'award': 'Academy Awards', 'category': 'Best Picture', 'won': False}], 'Breaking Bad': [{'year': 2013, 'award': 'Primetime Emmy Awards', 'category': 'Outstanding Drama Series', 'won': True}]}
